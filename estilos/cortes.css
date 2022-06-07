@@ -68,7 +68,9 @@
     margin-right: 10%;
 }
 /* empieza section del taper fade */
-
+.taper_fade{
+    overflow: hidden;
+}
 .titulo_taper{
     text-align: center;
     font-family: 'Tiro Gurmukhi', serif;
